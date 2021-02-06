@@ -3,7 +3,7 @@
         "name": "test",
         "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
         "outputChannel": 0,
-        "currentStep": 2.625,
+        "currentStep": 1,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [
@@ -68,7 +68,7 @@
         "name": "abc",
         "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
         "outputChannel": 0,
-        "currentStep": 3.875,
+        "currentStep": 2.25,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [
@@ -105,34 +105,35 @@
         "name": "hello",
         "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
         "outputChannel": 0,
-        "currentStep": 0.25,
+        "currentStep": 2.625,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [
+            57,
             65,
             66
         ],
         "notes": [
             {
-                "midi": 65,
+                "midi": 57,
                 "duration": 0.25,
                 "time": 0.5,
                 "velocity": 90
             },
             {
-                "midi": 65,
+                "midi": 57,
                 "duration": 0.25,
                 "time": 1.5,
                 "velocity": 90
             },
             {
-                "midi": 65,
+                "midi": 57,
                 "duration": 0.25,
                 "time": 2.5,
                 "velocity": 90
             },
             {
-                "midi": 65,
+                "midi": 57,
                 "duration": 0.25,
                 "time": 3.5,
                 "velocity": 90
@@ -143,7 +144,7 @@
         "name": "02/06/21, 17:31",
         "outputId": "",
         "outputChannel": 0,
-        "currentStep": 2,
+        "currentStep": 0.375,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [
@@ -156,7 +157,7 @@
         "name": "02/06/21, 17:31",
         "outputId": "",
         "outputChannel": 0,
-        "currentStep": 2.625,
+        "currentStep": 1,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [],
