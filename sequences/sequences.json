@@ -3,7 +3,7 @@
         "name": "test",
         "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
         "outputChannel": 0,
-        "currentStep": 1.75,
+        "currentStep": 1.5,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [
@@ -68,7 +68,7 @@
         "name": "abc",
         "outputId": "",
         "outputChannel": 0,
-        "currentStep": 3,
+        "currentStep": 2.75,
         "beatCount": 4,
         "stepsPerBeat": 4,
         "displayedNotes": [
@@ -80,10 +80,13 @@
         "name": "2/6/2021, 5:09:03 PM",
         "outputId": "",
         "outputChannel": 0,
-        "currentStep": 3.375,
+        "currentStep": 3.125,
         "beatCount": 4,
         "stepsPerBeat": 4,
-        "displayedNotes": [],
+        "displayedNotes": [
+            65,
+            66
+        ],
         "notes": []
     }
 ]
