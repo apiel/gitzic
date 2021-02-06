@@ -1,12 +1,61 @@
 [
     {
         "name": "2/6/2021, 4:01:17 PM",
-        "outputId": "",
+        "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
         "outputChannel": 0,
-        "currentStep": 2.875,
+        "currentStep": 1.875,
         "beatCount": 4,
         "stepsPerBeat": 4,
-        "displayedNotes": [],
-        "notes": []
+        "displayedNotes": [
+            55,
+            60,
+            66
+        ],
+        "notes": [
+            {
+                "midi": 66,
+                "duration": 0.25,
+                "time": 0,
+                "velocity": 90,
+                "slide": true
+            },
+            {
+                "midi": 60,
+                "duration": 0.75,
+                "time": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi": 66,
+                "duration": 0.25,
+                "time": 1,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 1.5,
+                "velocity": 90
+            },
+            {
+                "midi": 66,
+                "duration": 0.25,
+                "time": 2,
+                "velocity": 90
+            },
+            {
+                "midi": 55,
+                "duration": 0.5,
+                "time": 2.5,
+                "velocity": 90,
+                "slide": true
+            },
+            {
+                "midi": 66,
+                "duration": 0.25,
+                "time": 3,
+                "velocity": 90
+            }
+        ]
     }
 ]
