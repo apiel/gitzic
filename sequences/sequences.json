@@ -1,166 +1,158 @@
 [
-    {
-        "name": "test",
-        "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
-        "outputChannel": 0,
-        "currentStep": 1,
-        "beatCount": 4,
-        "stepsPerBeat": 4,
-        "displayedNotes": [
-            55,
-            60,
-            66
-        ],
-        "notes": [
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 0,
-                "velocity": 90,
-                "slide": true
-            },
-            {
-                "midi": 60,
-                "duration": 0.75,
-                "time": 0.25,
-                "velocity": 90
-            },
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 1,
-                "velocity": 90
-            },
-            {
-                "midi": 60,
-                "duration": 0.25,
-                "time": 1.5,
-                "velocity": 90
-            },
-            {
-                "midi": 60,
-                "duration": 0.25,
-                "time": 1.75,
-                "velocity": 90
-            },
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 2,
-                "velocity": 90
-            },
-            {
-                "midi": 55,
-                "duration": 0.5,
-                "time": 2.5,
-                "velocity": 90,
-                "slide": true
-            },
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 3,
-                "velocity": 90
-            }
-        ]
-    },
-    {
-        "name": "abc",
-        "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
-        "outputChannel": 0,
-        "currentStep": 2.25,
-        "beatCount": 4,
-        "stepsPerBeat": 4,
-        "displayedNotes": [
-            66
-        ],
-        "notes": [
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 0,
-                "velocity": 90
-            },
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 1,
-                "velocity": 90
-            },
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 2,
-                "velocity": 90
-            },
-            {
-                "midi": 66,
-                "duration": 0.25,
-                "time": 3,
-                "velocity": 90
-            }
-        ]
-    },
-    {
-        "name": "hello",
-        "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
-        "outputChannel": 0,
-        "currentStep": 2.625,
-        "beatCount": 4,
-        "stepsPerBeat": 4,
-        "displayedNotes": [
-            57,
-            65,
-            66
-        ],
-        "notes": [
-            {
-                "midi": 57,
-                "duration": 0.25,
-                "time": 0.5,
-                "velocity": 90
-            },
-            {
-                "midi": 57,
-                "duration": 0.25,
-                "time": 1.5,
-                "velocity": 90
-            },
-            {
-                "midi": 57,
-                "duration": 0.25,
-                "time": 2.5,
-                "velocity": 90
-            },
-            {
-                "midi": 57,
-                "duration": 0.25,
-                "time": 3.5,
-                "velocity": 90
-            }
-        ]
-    },
-    {
-        "name": "02/06/21, 17:31",
-        "outputId": "",
-        "outputChannel": 0,
-        "currentStep": 0.375,
-        "beatCount": 4,
-        "stepsPerBeat": 4,
-        "displayedNotes": [
-            65,
-            66
-        ],
-        "notes": []
-    },
-    {
-        "name": "02/06/21, 17:31",
-        "outputId": "",
-        "outputChannel": 0,
-        "currentStep": 1,
-        "beatCount": 4,
-        "stepsPerBeat": 4,
-        "displayedNotes": [],
-        "notes": []
-    }
+  {
+    "id": "1612881681738-869503509-4019633922",
+    "name": "test",
+    "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
+    "outputChannel": 0,
+    "currentStep": 1,
+    "beatCount": 4,
+    "stepsPerBeat": 4,
+    "displayedNotes": [55, 60, 66],
+    "notes": [
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 0,
+        "velocity": 90,
+        "slide": true
+      },
+      {
+        "midi": 60,
+        "duration": 0.75,
+        "time": 0.25,
+        "velocity": 90
+      },
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 1,
+        "velocity": 90
+      },
+      {
+        "midi": 60,
+        "duration": 0.25,
+        "time": 1.5,
+        "velocity": 90
+      },
+      {
+        "midi": 60,
+        "duration": 0.25,
+        "time": 1.75,
+        "velocity": 90
+      },
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 2,
+        "velocity": 90
+      },
+      {
+        "midi": 55,
+        "duration": 0.5,
+        "time": 2.5,
+        "velocity": 90,
+        "slide": true
+      },
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 3,
+        "velocity": 90
+      }
+    ]
+  },
+  {
+    "id": "1612881681739-3783564339-2567584944",
+    "name": "abc",
+    "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
+    "outputChannel": 0,
+    "currentStep": 2.25,
+    "beatCount": 4,
+    "stepsPerBeat": 4,
+    "displayedNotes": [66],
+    "notes": [
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 0,
+        "velocity": 90
+      },
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 1,
+        "velocity": 90
+      },
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 2,
+        "velocity": 90
+      },
+      {
+        "midi": 66,
+        "duration": 0.25,
+        "time": 3,
+        "velocity": 90
+      }
+    ]
+  },
+  {
+    "id": "1612881681739-2473644056-492378748",
+    "name": "hello",
+    "outputId": "A63DECB0F0EC9B6616AAEF03E4F6FA6DAB68B527C5B741D3CD416094E2E28E10",
+    "outputChannel": 0,
+    "currentStep": 2.625,
+    "beatCount": 4,
+    "stepsPerBeat": 4,
+    "displayedNotes": [57, 65, 66],
+    "notes": [
+      {
+        "midi": 57,
+        "duration": 0.25,
+        "time": 0.5,
+        "velocity": 90
+      },
+      {
+        "midi": 57,
+        "duration": 0.25,
+        "time": 1.5,
+        "velocity": 90
+      },
+      {
+        "midi": 57,
+        "duration": 0.25,
+        "time": 2.5,
+        "velocity": 90
+      },
+      {
+        "midi": 57,
+        "duration": 0.25,
+        "time": 3.5,
+        "velocity": 90
+      }
+    ]
+  },
+  {
+    "id": "1612881681739-283523147-619013335",
+    "name": "02/06/21, 17:31",
+    "outputId": "",
+    "outputChannel": 0,
+    "currentStep": 0.375,
+    "beatCount": 4,
+    "stepsPerBeat": 4,
+    "displayedNotes": [65, 66],
+    "notes": []
+  },
+  {
+    "id": "1612881681739-3507464156-3528944334",
+    "name": "02/06/21, 17:31",
+    "outputId": "",
+    "outputChannel": 0,
+    "currentStep": 1,
+    "beatCount": 4,
+    "stepsPerBeat": 4,
+    "displayedNotes": [],
+    "notes": []
+  }
 ]
