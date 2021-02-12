@@ -102,27 +102,27 @@
         "stepsPerBeat": 4,
         "notes": [
             {
-                "midi": 57,
+                "midi": 48,
                 "duration": 0.25,
-                "time": 0.5,
+                "time": 0,
                 "velocity": 90
             },
             {
-                "midi": 57,
+                "midi": 55,
                 "duration": 0.25,
-                "time": 1.5,
+                "time": 1,
                 "velocity": 90
             },
             {
-                "midi": 57,
+                "midi": 48,
                 "duration": 0.25,
-                "time": 2.5,
+                "time": 2,
                 "velocity": 90
             },
             {
-                "midi": 57,
+                "midi": 55,
                 "duration": 0.25,
-                "time": 3.5,
+                "time": 3,
                 "velocity": 90
             }
         ]
