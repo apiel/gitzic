@@ -108,7 +108,7 @@
                 "velocity": 90
             },
             {
-                "midi": 55,
+                "midi": 48,
                 "duration": 0.25,
                 "time": 1,
                 "velocity": 90
@@ -120,7 +120,7 @@
                 "velocity": 90
             },
             {
-                "midi": 55,
+                "midi": 48,
                 "duration": 0.25,
                 "time": 3,
                 "velocity": 90
