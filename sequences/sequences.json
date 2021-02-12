@@ -6,11 +6,6 @@
         "currentStep": 1,
         "beatCount": 4,
         "stepsPerBeat": 4,
-        "displayedNotes": [
-            55,
-            60,
-            66
-        ],
         "notes": [
             {
                 "midi": 66,
@@ -71,9 +66,6 @@
         "currentStep": 2.25,
         "beatCount": 4,
         "stepsPerBeat": 4,
-        "displayedNotes": [
-            66
-        ],
         "notes": [
             {
                 "midi": 66,
@@ -108,11 +100,6 @@
         "currentStep": 2.625,
         "beatCount": 4,
         "stepsPerBeat": 4,
-        "displayedNotes": [
-            57,
-            65,
-            66
-        ],
         "notes": [
             {
                 "midi": 57,
@@ -147,11 +134,32 @@
         "currentStep": 0.375,
         "beatCount": 4,
         "stepsPerBeat": 4,
-        "displayedNotes": [
-            65,
-            66
-        ],
-        "notes": []
+        "notes": [
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 0,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 1,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 2,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 3,
+                "velocity": 90
+            }
+        ]
     },
     {
         "id": "1612881681739-3507464156-3528944334",
