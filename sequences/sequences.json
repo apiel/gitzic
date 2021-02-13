@@ -172,9 +172,46 @@
         "notes": [
             {
                 "midi": 60,
-                "duration": 0.25,
+                "duration": 1,
                 "time": 0,
                 "velocity": 90
+            },
+            {
+                "midi": 69,
+                "duration": 1,
+                "time": 1,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 2,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 2.25,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 2.5,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 2.75,
+                "velocity": 90
+            },
+            {
+                "midi": 48,
+                "duration": 1,
+                "time": 3,
+                "velocity": 90,
+                "slide": false
             }
         ]
     }
