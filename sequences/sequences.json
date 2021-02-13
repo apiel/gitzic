@@ -242,12 +242,24 @@
     {
         "id": "1612881681739-3507464156-78987789789",
         "name": "bla",
-        "outputId": "guitar1",
+        "outputId": "guitar2",
         "currentStep": 1,
         "beatCount": 16,
         "stepsPerBeat": 4,
         "displayedNotes": [],
         "notes": [
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 0,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 2,
+                "velocity": 90
+            }
         ]
     }
 ]
