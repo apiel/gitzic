@@ -130,7 +130,7 @@
     {
         "id": "1612881681739-283523147-619013335",
         "name": "sample",
-        "outputId": "psykick1",
+        "outputId": "hi-hat4",
         "currentStep": 0.375,
         "beatCount": 4,
         "stepsPerBeat": 4,
@@ -142,9 +142,21 @@
                 "velocity": 90
             },
             {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 0.5,
+                "velocity": 90
+            },
+            {
                 "midi": 84,
                 "duration": 0.25,
                 "time": 1,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 1.5,
                 "velocity": 90
             },
             {
@@ -156,8 +168,20 @@
             {
                 "midi": 60,
                 "duration": 0.25,
+                "time": 2.5,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
                 "time": 3,
                 "velocity": 100
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 3.5,
+                "velocity": 90
             }
         ]
     },
