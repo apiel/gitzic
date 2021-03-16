@@ -130,7 +130,7 @@
     {
         "id": "1612881681739-283523147-619013335",
         "name": "sample",
-        "outputId": "neutron",
+        "outputId": "hi-hat4",
         "currentStep": 0.375,
         "beatCount": 4,
         "stepsPerBeat": 4,
@@ -250,14 +250,14 @@
         "notes": [
             {
                 "midi": 60,
-                "duration": 0.25,
+                "duration": 8,
                 "time": 0,
                 "velocity": 90
             },
             {
                 "midi": 60,
-                "duration": 0.25,
-                "time": 2,
+                "duration": 8,
+                "time": 8,
                 "velocity": 90
             }
         ]
