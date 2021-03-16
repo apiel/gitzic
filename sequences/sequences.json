@@ -188,7 +188,7 @@
     {
         "id": "1612881681739-3507464156-3528944334",
         "name": "example",
-        "outputId": "wawaw",
+        "outputId": "neutron",
         "currentStep": 1,
         "beatCount": 4,
         "stepsPerBeat": 4,
@@ -196,14 +196,50 @@
         "notes": [
             {
                 "midi": 60,
-                "duration": 1,
+                "duration": 0.25,
                 "time": 0,
                 "velocity": 90
             },
             {
-                "midi": 69,
-                "duration": 1,
+                "midi": 60,
+                "duration": 0.25,
+                "time": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 0.5,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 0.75,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
                 "time": 1,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 1.25,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 1.5,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 1.75,
                 "velocity": 90
             },
             {
@@ -231,11 +267,28 @@
                 "velocity": 90
             },
             {
-                "midi": 48,
-                "duration": 1,
+                "midi": 60,
+                "duration": 0.25,
                 "time": 3,
-                "velocity": 90,
-                "slide": false
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 3.25,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 3.5,
+                "velocity": 90
+            },
+            {
+                "midi": 60,
+                "duration": 0.25,
+                "time": 3.75,
+                "velocity": 90
             }
         ]
     },
